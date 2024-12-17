@@ -79,13 +79,6 @@ I'm a motivated software engineer with **1.9 years of industry experience** in d
 
 ---
 
-### 📊 GitHub Stats  
-
-![Aathithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aathi260&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aathi260&layout=compact&theme=dark)  
-
----
-
 ### 📫 How to Reach Me  
 
 - **LinkedIn**: [Aathithya Sriram Ganesh](https://www.linkedin.com/in/aathithya-sriram-ganesh) 
